@@ -1,0 +1,128 @@
+body{
+    
+    background-size: cover;
+    background-repeat: no-repeat ;
+    background-attachment: fixed;;
+}
+
+.container{
+    display: flex;
+    border:1px solid #121111;
+    padding: 10px;
+    margin: 15px;
+}
+
+.dining1{
+    flex:1;
+    margin-right:auto;
+    
+}
+
+.hotel-info{
+    flex:1;
+    background-color: #fdfcfc;
+    text-align: center;
+}
+
+.container1{
+    display:flex;
+    border: 1px solid #121111;
+    padding: 10px;
+    margin: 15px;
+}
+.dining2{
+    flex:1;
+    margin-right:auto
+}
+
+.hotel-info2{
+    flex:1;
+    background-color: #fdfcfc;
+    text-align: center;
+}
+.container2{
+    display:flex;
+    border: 1px solid #121111;
+    padding: 10px;
+    margin: 15px;
+}
+.dining3{
+    flex:1;
+    margin-right: auto;
+}
+.hotel-info3{
+    flex:1;
+    background-color: #fdfcfc;
+    text-align: center;
+}
+.container3{
+    display: flex;
+    border: 1px solid #ccc;
+    padding: 10px;
+
+    margin: 15px;
+}
+.dining4{
+    flex:1;
+    margin-right: auto;
+}
+.hotel-inf04{
+    flex:1;
+}
+.container4{
+    display: flex;
+    border: 1px solid #121111;
+    padding: 10px;
+    margin: 15px;
+}
+.dining5{
+    flex:1;
+    margin-right: auto;
+}
+.hotel-info5{
+    flex:1;
+    background-color: #fdfcfc;
+    text-align: center;
+}
+.container5{
+    display: flex;
+    border: 1px solid #121111;
+    padding: 10px;
+    margin: 15px;
+}
+.dining6{
+    flex: 1;
+    margin-right: auto;
+}
+.hotel-info6{
+    flex: 1;
+    background-color: #fdfcfc;
+    text-align: center;
+}
+.container6{
+    display: flex;
+    border:1px solid #121111;
+    padding: 10px;
+    margin: 15px;
+}
+.dining7{
+    flex: 1;
+    margin-right: auto;
+}
+.hotel-info7{
+    flex: 1;
+    background-color: #fdfcfc;
+    text-align: center;
+}
+h1{
+    text-align: center;
+    background-color: #121111;
+    color:#fdfcfc;
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+}
+p{
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}

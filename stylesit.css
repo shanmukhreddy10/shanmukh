@@ -1,0 +1,16 @@
+.bomma {
+    margin-right: 10px;
+    display: inline-block;
+    text-align: center;
+    overflow: hidden;
+    width: 500px;
+    height: 350px;
+}
+.bomma img {
+    max-width: 50%;
+    height: auto;
+    border-radius: 20px;
+}
+.text {
+    margin-top: 10px;
+}
